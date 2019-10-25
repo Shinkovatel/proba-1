@@ -1,2 +1,2 @@
-print ("Hello lida !!! ")
-print ("Hello Vasia !!! ")
+print ("Hello lida !!!: ")
+print ("Hello Vasia !!!: ")
