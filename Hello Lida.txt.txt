@@ -1,2 +1,7 @@
 print ("Hello lida !!!: ")
 print ("Hello Vasia !!!: ")
+print ("Hello Papa: ")
+print ("Hello dear friend !!!: ")
+print ("Hello lida !!!: ")
+print ("Hello Vasia !!!: ")
+
