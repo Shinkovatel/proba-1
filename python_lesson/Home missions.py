@@ -53,3 +53,5 @@ elif age > 40 and weght < 50:
 elif age > 40 and weght > 120:
     result2 = '{} {} {} лет {} кг, Следует обратиться к врачу'.format(name, soname, age, weght)
     print(result2)
+
+    fdfdf
